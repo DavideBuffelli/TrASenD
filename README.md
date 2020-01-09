@@ -1,6 +1,6 @@
 # Attention-Based Deep Learning Framework for Human Activity Recognition with User Adaptation
 
-Reference code for the models presented in the paper:
+Reference code for the models presented in the paper (submitted at ECMLPKDD 2020):
 ```
 @misc{buffelli2020har,
   title={Attention-Based Deep Learning Framework for Human Activity Recognition with User Adaptation},
@@ -22,7 +22,7 @@ In the file usage_example.py you'll find a simple example showing how to train, 
 ## Datasets
 Scripts to preprocess data can be found in the Data Preprocessing folder. 
 
-The original datasets can be found at the following links:
+The original (not preprocessed) datasets can be found at the following links:
 
 * HHAR
 <https://archive.ics.uci.edu/ml/datasets/Heterogeneity+Activity+Recognition>
