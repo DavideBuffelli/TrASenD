@@ -11,7 +11,7 @@ Reference code for the models presented in the paper (submitted at ECMLPKDD 2020
 Refer to the paper for a proper presentation of all the models, the preprocessing procedure, details about the datasets, and the training procedure. Please cite the above paper if you use this code in your own work. 
 
 ## Instructions
-You can train and cross-validate TrASenD, by first inserting the paths to the dataset, and the path where the model directories will be saved in the file test\_trasend.py. Then you can run the script with:
+You can train and cross-validate TrASenD, by first inserting the paths to the preprocessed dataset, and the path where the model directories will be saved in the file test\_trasend.py. Then you can run the script with:
 ```
 python test_trasend.py
 ```
