@@ -45,5 +45,5 @@ pip install tensorflow==1.10
 * The code released by the authors of DeepSense: <https://github.com/yscacaca/DeepSense>
 * Davide Buffelli's Msc Thesis <https://github.com/DavideBuffelli/A-Deep-Learning-Model-for-Personalised-Human-Activity-Recognition>
 
-## Licence
-Refer to the file [LICENCE](LICENCE)
+## License
+Refer to the file [LICENSE](LICENSE)
