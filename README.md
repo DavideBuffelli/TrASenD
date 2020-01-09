@@ -20,7 +20,7 @@ Links to datasets, and requirements can be found below.
 In the file usage_example.py you'll find a simple example showing how to train, evaluate, and make predictions with the presented models.
 
 ## Datasets
-Scripts to preprocess data can be found in the [Data Preprocessing](Data Preprocessing) folder. 
+Scripts to preprocess data can be found in the Data Preprocessing folder. 
 
 The original datasets can be found at the following links:
 
