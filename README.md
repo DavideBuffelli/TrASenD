@@ -2,10 +2,9 @@
 
 Reference code for the models presented in the paper:
 ```
-@inproceedings{buffelli2020har,
+@misc{buffelli2020har,
   title={Attention-Based Deep Learning Framework for Human Activity Recognition with User Adaptation},
   author={Buffelli, Davide and Vandin, Fabio},
-  booktitle={venue},
   year={2020}
 }
 ```
@@ -21,8 +20,7 @@ Links to datasets, and requirements can be found below.
 In the file usage_example.py you'll find a simple example showing how to train, evaluate, and make predictions with the presented models.
 
 ## Datasets
-Already Preprocessed datasets con be found at: <>. For an implementation of the preprocessing procedure you can refer to code available from the
-authors of DeepSense at: <https://github.com/yscacaca/HHAR-Data-Process>
+Scripts to preprocess data can be found in the [Data Preprocessing](Data Preprocessing) folder. 
 
 The original datasets can be found at the following links:
 
@@ -45,4 +43,7 @@ pip install tensorflow==1.10
 ## Additional Material
 
 * The code released by the authors of DeepSense: <https://github.com/yscacaca/DeepSense>
-* ...... my thesis
+* Davide Buffelli's Msc Thesis <https://github.com/DavideBuffelli/A-Deep-Learning-Model-for-Personalised-Human-Activity-Recognition>
+
+## Licence
+Refer to the file [LICENCE](LICENCE)
