@@ -1,11 +1,14 @@
 # Attention-Based Deep Learning Framework for Human Activity Recognition with User Adaptation
 
-Reference code for the models presented in the paper (submitted at ECMLPKDD 2020):
+Reference code for the models presented in the paper:
 ```
-@misc{buffelli2020har,
-  title={Attention-Based Deep Learning Framework for Human Activity Recognition with User Adaptation},
-  author={Buffelli, Davide and Vandin, Fabio},
-  year={2020}
+@misc{buffelli2020attentionbased,
+    title={Attention-Based Deep Learning Framework for Human Activity Recognition with User Adaptation},
+    author={Davide Buffelli and Fabio Vandin},
+    year={2020},
+    eprint={2006.03820},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG}
 }
 ```
 Refer to the paper for a proper presentation of all the models, the preprocessing procedure, details about the datasets, and the training procedure. Please cite the above paper if you use this code in your own work. 
