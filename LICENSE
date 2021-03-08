@@ -22,12 +22,10 @@ SOFTWARE.
 
 If you use this software for your work, cite the paper:
 ```
-@misc{buffelli2020attentionbased,
+@article{buffelli2021attentionbased,
     title={Attention-Based Deep Learning Framework for Human Activity Recognition with User Adaptation},
     author={Davide Buffelli and Fabio Vandin},
-    year={2020},
-    eprint={2006.03820},
-    archivePrefix={arXiv},
-    primaryClass={cs.LG}
+    year={2021},
+    journal={IEEE Sensors Journal}
 }
 ```
