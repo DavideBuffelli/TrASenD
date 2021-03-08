@@ -2,13 +2,11 @@
 
 Reference code for the models presented in the paper:
 ```
-@misc{buffelli2020attentionbased,
+@article{buffelli2021attentionbased,
     title={Attention-Based Deep Learning Framework for Human Activity Recognition with User Adaptation},
     author={Davide Buffelli and Fabio Vandin},
-    year={2020},
-    eprint={2006.03820},
-    archivePrefix={arXiv},
-    primaryClass={cs.LG}
+    year={2021},
+    journal={IEEE Sensors Journal}
 }
 ```
 Refer to the paper for a proper presentation of all the models, the preprocessing procedure, details about the datasets, and the training procedure. Please cite the above paper if you use this code in your own work. 
